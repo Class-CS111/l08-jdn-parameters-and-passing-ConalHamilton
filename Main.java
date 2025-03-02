@@ -5,9 +5,9 @@ public class Main
 {
   public static void main(String[] args) 
 	{
-		System.out.println(calcJulianDate(3,2,2025)); //Test for today's date, should return 2460737
-		System.out.println(calcJulianDate(8,26,1918)); //Test for Katherin Johnson's birthday, should return 2421832
-		System.out.println(calcJulianDate(11,7,1917)); //Test for another day, should return 2421540
+		//System.out.println(calcJulianDate(3,2,2025)); //Test for today's date, should return 2460737
+		//System.out.println(calcJulianDate(8,26,1918)); //Test for Katherin Johnson's birthday, should return 2421832
+		//System.out.println(calcJulianDate(11,7,1917)); //Test for another day, should return 2421540
 		
   }
   public static int calcJulianDate(int monthToday, int dayToday, int yearToday)
